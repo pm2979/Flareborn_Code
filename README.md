@@ -23,6 +23,7 @@
 | [EnemyInstance](https://github.com/pm2979/Flareborn_Code/blob/main/Enemy/EnemyInstance.cs)   | 적 정보 관리 | 박민, 유도균   |
 | [BaseEnemyAI](https://github.com/pm2979/Flareborn_Code/blob/main/Enemy/Battle/EnemyAI/BaseEnemyAI.cs)         | 적의 배틀 상태 추상 클래스     | 박민     |
 | [OverWorldEnemy](https://github.com/pm2979/Flareborn_Code/blob/main/Enemy/OverWorld/OverWorldEnemy.cs)             | 적의 필드 상태 관리       | 유도균    |
+| [EnemySpawner](https://github.com/pm2979/Flareborn_Code/blob/main/Enemy/EnemySpawner.cs)             | 적 스폰 관리       | 유도균    |
 
 ## 던전
 
