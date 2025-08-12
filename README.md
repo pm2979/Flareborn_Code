@@ -18,6 +18,7 @@
 * **개발 환경**: Unity 6000.1.8f1
 * **플랫폼**: PC
 * **게임 플레이**: [게임 다운로드](https://drive.google.com/file/d/17VHNLu1sp28Al4S3X_OFdt4t-0lplQVy/view)
+* **플레이 영상**: [게임 영상](https://www.youtube.com/watch?v=1TO01aUdIMA)
 
 ---
 
