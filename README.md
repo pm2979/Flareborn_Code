@@ -46,7 +46,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
 | [NPC](https://github.com/pm2979/Flareborn_Code/blob/main/Overworld/NPC/NPC.cs)         | NPC 관리     | 이자연     |
 | [Quest](https://github.com/pm2979/Flareborn_Code/blob/main/Overworld/QuestSystem/Quest.cs)             | 퀘스트 관리       | 이자연    |
-| [TutorialManager](https://github.com/pm2979/Flareborn_Code/blob/main/Overworld/QuestSystem/Tutorial/TutorialManager.cs))   | 튜토리얼 관리 | 이자연    |
+| [TutorialManager](https://github.com/pm2979/Flareborn_Code/blob/main/Overworld/QuestSystem/Tutorial/TutorialManager.cs)   | 튜토리얼 관리 | 이자연    |
 | [DialogueActivator](https://github.com/pm2979/Flareborn_Code/blob/main/Overworld/DialogueSystem/DialogueActivator.cs) | 다이얼로그 관리        | 이자연     |
 
 ## UI
