@@ -40,7 +40,7 @@
 | [RuneCrafting](https://github.com/pm2979/Flareborn_Code/blob/main/Item/Rune/RuneCrafting.cs)   | 룬 생성 | 박민    |
 | [CurrencyWallet](https://github.com/pm2979/Flareborn_Code/blob/main/Item/Wallet/CurrencyWallet.cs) | 화폐 관리       | 김석호     |
 
-## NPC 및 퀘스
+## NPC 및 퀘스트
 
 | 스크립트 경로                                                                                                                                     | 설명                 | 주요 기여자 |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
