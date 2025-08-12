@@ -1,7 +1,22 @@
 # Flareborn : The Soul Devourer
 
-## 게임 소개
+![Animation_0](https://github.com/user-attachments/assets/865d1a21-768c-43d8-947f-dc07064a37cb)
 
+## 프로젝트 정보
+
+* **개발 기간**: 2025.06.20 ~ 2025.08.14
+* **개발 환경**: Unity 6000.1.8f1
+* **플랫폼**: PC
+* **게임 플레이**: [게임 다운로드](https://drive.google.com/file/d/17VHNLu1sp28Al4S3X_OFdt4t-0lplQVy/view)
+
+## 팀원 소개
+
+* **팀장**: 이자연
+* **부팀장**: 유도균
+* **팀원**: 박민
+* **팀원**: 김석호
+
+## 게임 소개
 - **장르**: 2.5D 턴제 RPG
 - **설명**: 플레이어는 주인공 **루티엔**이 되어 모험 떠나게 됩니다. 매력적인 동료들과 함께 몬스터를 물리치고, 화려한 이펙트와 박진감 넘치는 턴제 전투의 재미를 경험해보세요!
 
@@ -104,10 +119,3 @@
 | [SoundSettings](https://github.com/pm2979/Flareborn_Code/blob/main/UI/SoundOptionUI/SoundSettings.cs)         | 사운드 관리UI        | 김석호    |
 | [QuestLogUI](https://github.com/pm2979/Flareborn_Code/blob/main/UI/QuestUI/QuestLogUI.cs)                         | 퀘스트UI        | 이자연     |
 
-
-## 프로젝트 정보
-
-* **개발 기간**: 2025.06.20 ~ 2025.08.14
-* **개발 환경**: Unity 6000.1.8f1
-* **플랫폼**: PC
-* **게임 플레이**: [게임 다운로드](https://drive.google.com/file/d/17VHNLu1sp28Al4S3X_OFdt4t-0lplQVy/view)
