@@ -2,8 +2,6 @@
 
 ![Animation_0](https://github.com/user-attachments/assets/865d1a21-768c-43d8-947f-dc07064a37cb)
 
-<br>
-
 ## 목차
 
 - [프로젝트 정보](#프로젝트-정보)
